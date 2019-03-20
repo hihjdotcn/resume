@@ -1,0 +1,8 @@
+.home-page header {
+  text-align: center;
+  padding: 20px 0;
+}
+.home-page header .title {
+  font-size: 20px;
+  font-weight: bold;
+}

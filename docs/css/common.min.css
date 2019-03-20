@@ -1,0 +1,6 @@
+.g-container {
+  margin: 0 auto;
+  width: 1080px;
+  background-color: bisque;
+  min-height: 800px;
+}

@@ -1,2 +1,7 @@
-# travisWebsite
-travis CI &amp; github pages
+# Personal Resume
+- jquery + bootstrap + gulp
+
+# build command
+```
+gulp dev
+```
